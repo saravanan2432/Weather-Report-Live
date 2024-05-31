@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-Report-Live.git/static/css/main.9a49aeee.css",
+    "main.js": "/Weather-Report-Live.git/static/js/main.b71236d9.js",
+    "static/js/453.9ebc09cf.chunk.js": "/Weather-Report-Live.git/static/js/453.9ebc09cf.chunk.js",
+    "index.html": "/Weather-Report-Live.git/index.html",
+    "main.9a49aeee.css.map": "/Weather-Report-Live.git/static/css/main.9a49aeee.css.map",
+    "main.b71236d9.js.map": "/Weather-Report-Live.git/static/js/main.b71236d9.js.map",
+    "453.9ebc09cf.chunk.js.map": "/Weather-Report-Live.git/static/js/453.9ebc09cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a49aeee.css",
+    "static/js/main.b71236d9.js"
+  ]
+}
